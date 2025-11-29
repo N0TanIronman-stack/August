@@ -1,9 +1,9 @@
 title=August RSPS
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://oldschool1.runescape.com/
+codebase=https://n0tanironman-stack.github.io/August/Cache/
 cachedir=oldschool
 storebase=0
-initial_jar=gamepack_6140455.jar
+initial_jar=runescape.jar
 initial_class=client.class
 termsurl=http://www.jagex.com/g=oldscape/terms/terms.ws
 privacyurl=http://www.jagex.com/g=oldscape/privacy/privacy.ws
