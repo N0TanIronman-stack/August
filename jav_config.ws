@@ -1,6 +1,6 @@
 title=August RSPS
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=https://n0tanironman-stack.github.io/August/Cache/
+codebase=file:/E:/Downloads/zzzRunelite/New folder/
 cachedir=oldschool
 storebase=0
 initial_jar=runescape.jar
