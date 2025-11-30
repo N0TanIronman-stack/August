@@ -1,9 +1,9 @@
 title=Blurite Alpha
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://127.0.0.1/
+codebase=http://174.172.167.204/
 cachedir=blurite
 storebase=0
-initial_jar=gamepack_2221869.jar
+initial_jar={Myn's Jar Name}.jar
 initial_class=client.class
 termsurl=http://www.jagex.com/g=oldscape/terms/terms.ws
 privacyurl=http://www.jagex.com/g=oldscape/privacy/privacy.ws
