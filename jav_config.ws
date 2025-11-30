@@ -53,7 +53,7 @@ param=3=true
 param=16=false
 param=2=https://payments.jagex.com/
 param=12=255
-param=17=https://client.blurite.io/world_list.ws
+param=17=https://n0tanironman-stack.github.io/August/Worldlist.ws
 param=21=0
 param=25=228
 param=9=ElZAIrq5NpKN6D3mDdihco3oPeYN2KFy2DCquj7JMmECPmLrDP3Bnw
